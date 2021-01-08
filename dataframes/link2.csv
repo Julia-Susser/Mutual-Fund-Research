@@ -1,0 +1,193 @@
+,name,ticker,manager,link
+0,"1    RBC BlueBay Global Bond Fund
+Name: Name_x, dtype: object",RBTRX US equity,Mark Dowding,https://www.rbcgam.com/en/ca/profile/mark-dowding/detail/
+1,"2    RBC BlueBay Global Bond Fund
+Name: Name_x, dtype: object",RBTRX US equity,Polina Kurdyavko,https://www.rbcgam.com/en/ca/profile/polina-kurdyavko/detail
+2,"6    RBC BlueBay Global Bond Fund
+Name: Name_x, dtype: object",RBTRX US equity,Justin Jewell,https://www.rbcgam.com/en/ca/profile/justin-jewell/detail
+3,"7    Aquila Three Peaks High Income Fund
+Name: Name_x, dtype: object",ATIPX US equity,Sandy Rufenacht,https://aquilafunds.com/funds/aquila-three-peaks-income-fund/
+4,"13    Calamos High Income Fund
+Name: Name_x, dtype: object",CCHYX US equity,Jon Vacko,https://www.calamos.com/about/portfolio-management/jon-vacko/
+5,"16    Invesco High Yield Fund
+Name: Name_x, dtype: object",AMHYX US equity,Joseph Portera,https://www.invesco.com/us/financial-products/mutual-funds/product-detail?audienceType=Ria&fundId=1841
+6,"17    Invesco High Yield Fund
+Name: Name_x, dtype: object",AMHYX US equity,Niklas Nordenfelt,https://www.fin-news.com/2020/08/11/wells-fargo-ams-u-s-high-yield-co-head-to-exit/
+7,"18    MFS Global High Yield Fund
+Name: Name_x, dtype: object",MHOBX US equity,Matthew W Ryan,https://www.mfs.com/en-us/individual-investor/product-strategies/mutual-funds/MHOBX-mfs-global-high-yield-fund.html
+8,"20    Barings Global Credit Income Opportunities Fund
+71                 MassMutual Premier High Yield Fund
+Name: Name_x, dtype: object",BXIAX US equity,Sean Feeley,https://www.barings.com/us/guest/funds/mutual-funds/barings-global-credit-income-opportunities-fund
+9,"26    Buffalo High Yield Fund Inc
+Name: Name_x, dtype: object",BUFHX US equity,Jeff Sitzmann,https://buffalofunds.com/team/jeff-sitzmann/
+10,"27    Buffalo High Yield Fund Inc
+Name: Name_x, dtype: object",BUFHX US equity,Paul Dlugosch,https://buffalofunds.com/team/paul-dlugosch/
+11,"28    Buffalo High Yield Fund Inc
+Name: Name_x, dtype: object",BUFHX US equity,"Alexander Hancock ""Alex""",https://buffalofunds.com/team/alex-hancock/
+12,"29    Buffalo High Yield Fund Inc
+Name: Name_x, dtype: object",BUFHX US equity,Jeff Deardorff,https://buffalofunds.com/team/jeff-deardorff/
+13,"31    Pioneer Global High Yield Fund
+74           Pioneer High Yield Fund
+Name: Name_x, dtype: object",PGHYX US equity,Matt Shulkin,https://www.amundipioneer.com/institutional/ezjscore/call/ezjscamundibuzz::sfForwardFront::paramsList=service=ProxyGedApi&routeId=_dl_N2FjMTY5MWZiYzAzOGRiOGI4NDEzYzQyZjk0NmUyNWM_download
+14,"32               Pioneer Global High Yield Fund
+72                      Pioneer High Yield Fund
+147    Nationwide Amundi Global High Yield Fund
+Name: Name_x, dtype: object",PGHYX US equity,Ken Monaghan,https://www.amundipioneer.com/institutional/ezjscore/call/ezjscamundibuzz::sfForwardFront::paramsList=service=ProxyGedApi&routeId=_dl_MTYxYmI0ZGMzMjk1ODljNTY5YTdkNTNiMzFkNjg0Njk_download
+15,"34             AB High Income Fund Inc
+218    AB FlexFee High Yield Portfolio
+Name: Name_x, dtype: object",AGDAX US equity,Gershon M Distenfeld,https://www.alliancebernstein.com/biographies/01_biographies/distenfeld_gershon.bio.htm?rsb=no
+16,"36    AB High Income Fund Inc
+Name: Name_x, dtype: object",AGDAX US equity,Matt Sheridan,https://blog.alliancebernstein.com/Biographies/01_Biographies/Sheridan_Matthew.bio.htm?rsb=no
+17,"37    AB High Income Fund Inc
+Name: Name_x, dtype: object",AGDAX US equity,Marco G Santamaria,https://www.abfunds.com.hk/biographies/01_biographies/santamaria_marco.bio.htm
+18,"43    Hotchkis & Wiley High Yield Fund
+Name: Name_x, dtype: object",HWHIX US equity,Ray Kennedy,https://www.hwcm.com/our-team/ray-kennedy-cfa/
+19,"44    Hotchkis & Wiley High Yield Fund
+Name: Name_x, dtype: object",HWHIX US equity,Mark Hudoff,https://www.hwcm.com/our-team/mark-hudoff/
+20,"45    Hotchkis & Wiley High Yield Fund
+Name: Name_x, dtype: object",HWHIX US equity,Patrick Meegan,https://www.hwcm.com/our-team/patrick-meegan-cpa/
+21,"46    Hotchkis & Wiley High Yield Fund
+Name: Name_x, dtype: object",HWHIX US equity,Richard Mak,https://www.hwcm.com/our-team/richard-mak-cfa/
+22,"47    Eaton Vance Income Fund of Boston
+Name: Name_x, dtype: object",EVIBX US equity,Kelley G Baccei,https://www.prnewswire.com/news-releases/eaton-vance-adds-kelley-g-baccei-and-jeffrey-d-mueller-to-high-yield-bond-fund-portfolio-management-teams-300871105.html
+23,"51    Wells Fargo High Yield Bond Fund
+Name: Name_x, dtype: object",EKHAX US equity,Margaret Patel,https://www.wellsfargoassetmanagement.com/investments/mutual-funds/fund-profile/overview.html?accountingId=4203&shareClass=A
+24,"53                              JPMorgan High Yield Fund
+161    SEI Institutional Managed Trust - High Yield B...
+206    SEI Institutional Investment Trust - High Yiel...
+Name: Name_x, dtype: object",OHYFX US equity,Rob Cook,https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-high-yield-fund-i-4812c0803
+25,"54                              JPMorgan High Yield Fund
+116                           Guggenheim High Yield Fund
+162    SEI Institutional Managed Trust - High Yield B...
+209    SEI Institutional Investment Trust - High Yiel...
+Name: Name_x, dtype: object",OHYFX US equity,Thomas Hauser,https://www.guggenheiminvestments.com/mutual-funds/fund/shyix-high-yield
+26,"57    Calvert High Yield Bond Fund
+Name: Name_x, dtype: object",CYBIX US equity,Stephen Concannon,https://www.calvert.com/Calvert-High-Yield-Bond-Fund-CYBIX.php
+27,"64    American Century High-Yield Fund
+Name: Name_x, dtype: object",AHYVX US equity,John F Walsh,https://corporate.americancentury.com/content/corporate/en/our-firm/leadership/portfolio-teams/j-walsh.html
+28,"65    American Century High-Yield Fund
+Name: Name_x, dtype: object",AHYVX US equity,Jeff Houston,https://corporate.americancentury.com/content/corporate/en/our-firm/leadership/portfolio-teams/j-houston.html
+29,"66    American Century High-Yield Fund
+Name: Name_x, dtype: object",AHYVX US equity,Gavin Fleischman,https://corporate.americancentury.com/content/corporate/en/our-firm/leadership/portfolio-teams/g-fleischman.html
+30,"76    Goldman Sachs High Yield Fund
+Name: Name_x, dtype: object",GSHAX US equity,Robert Magnuson,https://www.gsam.com/content/gsam/us/en/individual/products/fund-finder/gs-high-yield-fund.html
+31,"86    Timothy Plan High Yield Bond Fund
+Name: Name_x, dtype: object",TPHAX US equity,Erik A Olson,https://timothyplan.com/our-funds/summary-hyb.php
+32,"88    Harbor High-Yield Bond Fund
+Name: Name_x, dtype: object",HYFAX US equity,Mark R Shenkman,https://www.fiasi.org/mark-shenkman
+33,"90    Harbor High-Yield Bond Fund
+Name: Name_x, dtype: object",HYFAX US equity,Eric Dobbin,https://www.harborfunds.com/docs/High-Yield_Bond_Fund_Summary_Prospectus.pdf
+34,"96    Fidelity Global High Income Fund
+Name: Name_x, dtype: object",FGHNX US equity,James Durance,https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/SHDOCS/FGHNX/hosts/sh_comm_pmqa.002297.RETAIL_pdf.pdf
+35,"97    Westwood High Income Fund
+Name: Name_x, dtype: object",WHGHX US equity,Brendan M Ryan,https://westwoodgroup.com/person/brendan-m-ryan-cfa/
+36,"98    Westwood High Income Fund
+Name: Name_x, dtype: object",WHGHX US equity,Adrian Helfert,https://westwoodgroup.com/person/adrian-a-helfert/
+37,"100    Northern High Yield Fixed Income Fund
+Name: Name_x, dtype: object",NHFIX US equity,Benjamin McCubbin,https://www.northerntrust.com/united-states/insights-research/investment-management/experts/pm/mccubbin-benjamin
+38,"103    Metropolitan West High Yield Bond Fund
+Name: Name_x, dtype: object",MWHYX US equity,Stephen M Kane,https://citywireusa.com/registered-investment-advisor/manager/stephen-m-kane/d24210
+39,"104    Metropolitan West High Yield Bond Fund
+Name: Name_x, dtype: object",MWHYX US equity,Laird R Landmann,https://citywireselector.com/manager/laird-r-landmann/d24211
+40,"106    John Hancock High Yield Fund
+Name: Name_x, dtype: object",JHHBX US equity,Caryn Rothman,https://www.jhinvestments.com/investments/mutual-fund/fixed-income-funds/high-yield-fund-a-jhhbx
+41,"107    Virtus Newfleet High Yield Fund
+Name: Name_x, dtype: object",PHCHX US equity,David L Albrycht,https://www.newfleet.com/about-newfleet/our-team
+42,"109    Virtus Newfleet High Yield Fund
+Name: Name_x, dtype: object",PHCHX US equity,Frank Ossino,https://www.newfleet.com/about-newfleet/our-team
+43,"111    TIAA-CREF High Yield Fund
+185    Nuveen Credit Income Fund
+Name: Name_x, dtype: object",TIHYX US equity,Kevin R Lorenz,https://www.tiaa.org/public/tcm/uiowa/investment-performance/mutualfunds/profile?ticker=4530798
+44,"112    TIAA-CREF High Yield Fund
+Name: Name_x, dtype: object",TIHYX US equity,Jean Lin,https://www.tiaa.org/public/tcm/uiowa/investment-performance/mutualfunds/profile?ticker=4530798
+45,"113              T Rowe Price High Yield Fund Inc
+174    T Rowe Price Institutional High Yield Fund
+Name: Name_x, dtype: object",PRHYX US equity,Rodney Rayburn,https://citywireselector.com/manager/rodney-m-rayburn/d28764
+46,"117    Guggenheim High Yield Fund
+Name: Name_x, dtype: object",SHYIX US equity,Richard De Wet,https://www.guggenheiminvestments.com/mutual-funds/fund/shyix-high-yield
+47,"121    Lord Abbett High Yield Fund
+Name: Name_x, dtype: object",LHYAX US equity,Steven F Rocco,https://citywireselector.com/manager/steven-f-rocco/d25849
+48,"122    Lord Abbett High Yield Fund
+Name: Name_x, dtype: object",LHYAX US equity,Robert A Lee,https://www.lordabbett.com/en/strategies/mutual-funds/high-yield-fund.html
+49,"123    Lord Abbett High Yield Fund
+Name: Name_x, dtype: object",LHYAX US equity,Christopher Gizzo,https://www.lordabbett.com/en/culture/managing-directors.html
+50,"124    Payden High Income Fund
+Name: Name_x, dtype: object",PYHRX US equity,Kristin J Ceva,https://www.payden.com/
+51,"128    Payden High Income Fund
+Name: Name_x, dtype: object",PYHRX US equity,Timothy Crawmer,https://www.payden.com/
+52,"130    American Beacon SiM High Yield Opportunities Fund
+Name: Name_x, dtype: object",SHOAX US equity,Brian L Placzek,http://www.sim-llc.com/team/brian-l-placzek-cfa
+53,"132           DWS High Income Fund
+169    DWS Global High Income Fund
+Name: Name_x, dtype: object",KHYAX US equity,Thomas R Bouchard,https://fundsus.dws.com/us/en-us/products/mutual-funds/dws-high-income-fund.html
+54,"133    Nuveen High Yield Income Fund
+Name: Name_x, dtype: object",NCOAX US equity,Scott Caraher,https://www.nuveen.com/en-us/people/profiles/c/scott-caraher
+55,"135    Loomis Sayles High Income Fund
+Name: Name_x, dtype: object",NEFHX US equity,"Matthew J Eagan ""Matt""",https://www.businesswire.com/news/home/20190228005899/en/Loomis-Sayles-Announces-New-Board-Members
+56,"136    Loomis Sayles High Income Fund
+Name: Name_x, dtype: object",NEFHX US equity,Elaine M Stokes,https://www.im.natixis.com/us/bio/elaine-m-stokes
+57,"137             Putnam High Yield Fund
+222    Great-West High Yield Bond Fund
+Name: Name_x, dtype: object",PHYIX US equity,Norm Boucher,https://www.alumni.holycross.edu/s/1380/mobile/mobile.aspx?sid=1380&gid=1&pgid=1808&crid=0&calpgid=13&calcid=664
+58,"138             Putnam High Yield Fund
+223    Great-West High Yield Bond Fund
+Name: Name_x, dtype: object",PHYIX US equity,Robert L Salvin,https://www.putnam.com/individual/mutual-funds/funds/41-high-yield-fund/A
+59,"143    Western Asset Global High Yield Bond Fund
+Name: Name_x, dtype: object",SAHYX US equity,Tj Settel,https://www.linkedin.com/in/tj-settel-14435b14
+60,"149    1290 High Yield Bond Fund
+Name: Name_x, dtype: object",TNHAX US equity,Kenneth Kozlowski,http://www.1290funds.com/1290-retirement-funds.php
+61,"150    1290 High Yield Bond Fund
+Name: Name_x, dtype: object",TNHAX US equity,Alwi Chan,http://www.1290funds.com/1290-retirement-funds.php
+62,"151    1290 High Yield Bond Fund
+Name: Name_x, dtype: object",TNHAX US equity,Carl Whitbeck,http://www.1290funds.com/1290-high-yield-bond-fund.php
+63,"153    Northern Multi-Manager High Yield Opportunity ...
+Name: Name_x, dtype: object",NMHYX US equity,Christopher Edward Vella,https://www.northerntrust.com/united-states/insights-research/investment-management/experts/pm/vella-christopher-pm
+64,"159    SEI Institutional Managed Trust - High Yield B...
+207    SEI Institutional Investment Trust - High Yiel...
+Name: Name_x, dtype: object",SHYAX US equity,Seth J Brufsky,https://www.bloomberg.com/profile/person/2197013
+65,"160    SEI Institutional Managed Trust - High Yield B...
+210    SEI Institutional Investment Trust - High Yiel...
+Name: Name_x, dtype: object",SHYAX US equity,John Leupp,http://www.acquireprime.com/professionals/profile/John%20Leupp
+66,"164    SEI Institutional Managed Trust - High Yield B...
+Name: Name_x, dtype: object",SHYAX US equity,"Thomas James Gahan ""Tom""",https://irishamerica.com/2007/08/tom-gahan-2/
+67,"165    SEI Institutional Managed Trust - High Yield B...
+Name: Name_x, dtype: object",SHYAX US equity,Michael E Paasche,https://www.topionetworks.com/people/michael-paasche-5b47a945105eb55299c0e4fd
+68,"167    Hartford Strategic Income Fund
+Name: Name_x, dtype: object",HSNAX US equity,Chris Testa,https://www.royceinvest.com/people/christopher-testa
+69,"170    Virtus Seix High Income Fund
+197     Virtus Seix High Yield Fund
+Name: Name_x, dtype: object",SAHIX US equity,James Fitzpatrick,https://www.virtus.com/products/seix-high-income
+70,"171    Virtus Seix High Income Fund
+196     Virtus Seix High Yield Fund
+Name: Name_x, dtype: object",SAHIX US equity,Michael Kirkpatrick,https://www.virtus.com/assets/files/1s7/kirkpatrick_biographies_v2.pdf
+71,"175    Pacific Funds High Income
+Name: Name_x, dtype: object",PLHIX US equity,Michael Long,https://www.bbh.com/en-us/our-firm/michael-long-7068
+72,"177    American High-Income Trust
+Name: Name_x, dtype: object",AHITX US equity,Thomas H Chow,https://www.barrons.com/articles/SB50001424052748704372504578284031184487100
+73,"179    American High-Income Trust
+Name: Name_x, dtype: object",AHITX US equity,Shannon Ward,https://www.capitalgroup.com/institutional/about-us/our-people/investment-professionals/shannon-ward.html
+74,"180    BlackRock High Yield Bond Portfolio
+Name: Name_x, dtype: object",BHYIX US equity,"James E Keenan ""Jim""",https://www.blackrock.com/us/individual/products/227557/blackrock-high-yield-bondinstitutional-class-fund
+75,"181    BlackRock High Yield Bond Portfolio
+Name: Name_x, dtype: object",BHYIX US equity,Mitch Garfin,https://www.blackrock.com/ca/institutional/en/biographies/mitchell-garfin
+76,"182    BlackRock High Yield Bond Portfolio
+Name: Name_x, dtype: object",BHYIX US equity,Derek Schoenhofen,https://www.blackrock.com/us/individual/products/227557/blackrock-high-yield-bondinstitutional-class-fund
+77,"183    BlackRock High Yield Bond Portfolio
+Name: Name_x, dtype: object",BHYIX US equity,David Delbos,https://www.blackrock.com/us/individual/products/227557/blackrock-high-yield-bondinstitutional-class-fund
+78,"188    PACE High Yield Investments
+Name: Name_x, dtype: object",PHDYX US equity,Gina Toth,https://citywireusa.com/professional-buyer/news/don-t-put-lipstick-on-the-pig-how-not-to-pitch-to-gatekeepers/a1014265
+79,"203    T Rowe Price Global High Income Bond Fund
+Name: Name_x, dtype: object",RPIHX US equity,Samy Muaddi,https://conferences.pionline.com/conference/emerging-markets/2019/speakers/samy-muaddi
+80,"204            T Rowe Price Global High Income Bond Fund
+214    SEI Institutional Investment Trust - High Yiel...
+Name: Name_x, dtype: object",RPIHX US equity,Mark J Vaselkiv,http://citywire.co.uk/manager/mark-j-vaselkiv/d3347
+81,"219    AB FlexFee High Yield Portfolio
+Name: Name_x, dtype: object",HIYYX US equity,Ivan Rudolph-Shabinsky,https://www.alliancebernstein.com/biographies/01_biographies/rudolph-shabinsky_ivan.bio.htm?rsb=no
+82,"220    FIDELITY ADVISOR SERIES I - Fidelity Advisor H...
+Name: Name_x, dtype: object",FAHYX US equity,Mark J Notkin,https://fundresearch.fidelity.com/mutual-funds/view-all/316389873
+83,"224    Great-West High Yield Bond Fund
+Name: Name_x, dtype: object",MXHYX US equity,Paul D Scanlon,https://www.morningstar.ca/ca/news/184782/paul-scanlon--putnam-investments.aspx
+84,"225    Franklin High Income Fund/United States
+Name: Name_x, dtype: object",FHAIX US equity,Glenn Voyles,https://www.franklintempleton.lu/investor/profile-details?contentPath=common/voyles-glenn
+85,"229    Victory High Yield Fund
+Name: Name_x, dtype: object",GUHYX US equity,John Blaney,https://www.parkavenueinstitutional.com/node/13

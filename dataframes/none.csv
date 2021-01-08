@@ -1,0 +1,273 @@
+,name,ticker,manager
+0,RBC BlueBay Global Bond Fund,RBTRX US equity,Nick Shearn
+1,RBC BlueBay Global Bond Fund,RBTRX US equity,Thomas Kreuzer
+2,BMO Strategic Income Fund,MRGIX US equity,Scott M Kimball
+3,BMO Strategic Income Fund,MRGIX US equity,Frank J Reda
+4,Calamos High Income Fund,CCHYX US equity,
+5,Calamos High Income Fund,CCHYX US equity,Eli Pars
+6,Dunham High Yield Bond Fund,DCHYX US equity,
+7,AllianzGI High Yield Bond Fund,AYBVX US equity,
+8,Thrivent High Yield Fund,LBHYX US equity,
+9,Aberdeen Global High Income Fund,BJBHX US equity,Erlend Lochen
+10,Aberdeen Global High Income Fund,BJBHX US equity,Arthur Milson
+11,Aberdeen Global High Income Fund,BJBHX US equity,"Matthew Kence ""Matt"""
+12,Invesco High Yield Bond Factor Fund,OGYAX US equity,
+13,Calvert High Yield Bond Fund,CYBIX US equity,Michael W Weilheimer
+14,Calvert High Yield Bond Fund,CYBIX US equity,Rafe Leeman
+15,Morgan Stanley Pathway Funds - High Yield Fund,THYUX US equity,Michael C Buchanan
+16,Morgan Stanley Pathway Funds - High Yield Fund,THYUX US equity,"S Kenneth Leech ""Ken"""
+17,Morgan Stanley Pathway Funds - High Yield Fund,THYUX US equity,Martin A Smith
+18,Voya High Yield Bond Fund,IHYAX US equity,
+19,Transamerica High Yield Bond,IHIYX US equity,
+20,Transamerica High Yield Bond,IHIYX US equity,"James K Schaeffer Jr ""Jim"""
+21,Transamerica High Yield Bond,IHIYX US equity,Kevin Bakker
+22,Janus Henderson High-Yield Fund,JHYAX US equity,
+23,Stone Harbor High Yield Bond Fund,SHHYX US equity,Cathy Nolan
+24,Timothy Plan High Yield Bond Fund,TPHAX US equity,
+25,Barings US High Yield Fund,BXHAX US equity,
+26,Fidelity Global High Income Fund,FGHNX US equity,
+27,Vanguard High-Yield Corporate Fund,VWEHX US equity,Michael L Hong
+28,Loomis Sayles Institutional High Income Fund,LSHIX US equity,
+29,Segall Bryant & Hamill Quality High Yield Fund,WTLTX US equity,
+30,Virtus Newfleet High Yield Fund,PHCHX US equity,Kyle A Jennings
+31,Delaware High-Yield Opportunities Fund,DHOAX US equity,
+32,USAA High Income Fund,USHYX US equity,Julianne Bass
+33,Guggenheim High Yield Fund,SHYIX US equity,
+34,Principal Funds Income High Yield Fund,PHYTX US equity,Josh Rank
+35,Payden High Income Fund,PYHRX US equity,"James P Sarni ""Jim"""
+36,Payden High Income Fund,PYHRX US equity,Alfred Giles
+37,Federated Hermes Opportunistic High Yield Bond Fund,FHYTX US equity,
+38,Federated Hermes High Income B,FHIIX US equity,Mark E Durbiano
+39,Western Asset Global High Yield Bond Fund,SAHYX US equity,Ian R Edmonds
+40,Western Asset Global High Yield Bond Fund,SAHYX US equity,"S Kenneth Leech ""Ken"""
+41,Western Asset Global High Yield Bond Fund,SAHYX US equity,Paul Shuttleworth
+42,Nationwide Amundi Global High Yield Fund,NWXIX US equity,
+43,Ivy High Income Fund,WHIAX US equity,
+44,Pacific Funds Strategic Income,PLSRX US equity,Michael Marzouk
+45,Angel Oak High Yield Opportunities Fund,ANHAX US equity,Nichole Hammond
+46,SEI Institutional Managed Trust - High Yield Bond Fund,SHYAX US equity,Thomas Hauser
+47,SEI Institutional Managed Trust - High Yield Bond Fund,SHYAX US equity,Paul A Matlack
+48,John Hancock Funds II - U.S. High Yield Bond Fund,JIHLX US equity,
+49,Integrity High Income Fund,IHFAX US equity,
+50,American High-Income Trust,AHITX US equity,David A Daigle
+51,Nuveen Credit Income Fund,FJSIX US equity,
+52,PACE High Yield Investments,PHDYX US equity,Mabel Lung
+53,PACE High Yield Investments,PHDYX US equity,Steve Kotsen
+54,PACE High Yield Investments,PHDYX US equity,David Crall
+55,PACE High Yield Investments,PHDYX US equity,Simon Tan
+56,PACE High Yield Investments,PHDYX US equity,Eric Torres
+57,Western Asset High Yield Fund,WAHYX US equity,
+58,John Hancock Funds II - High Yield Fund,JIHDX US equity,Walter E Kilcullen
+59,John Hancock Funds II - High Yield Fund,JIHDX US equity,Michael C Buchanan
+60,John Hancock Funds II - High Yield Fund,JIHDX US equity,"S Kenneth Leech ""Ken"""
+61,SEI Institutional Investment Trust - High Yield Bond Fund,SGYAX US equity,Rob Cook
+62,SEI Institutional Investment Trust - High Yield Bond Fund,SGYAX US equity,Americo Cascella
+63,SEI Institutional Investment Trust - High Yield Bond Fund,SGYAX US equity,Thomas Hauser
+64,SEI Institutional Investment Trust - High Yield Bond Fund,SGYAX US equity,David Aniloff
+65,SEI Institutional Investment Trust - High Yield Bond Fund,SGYAX US equity,#N/A Mandatory parameter [SECURITY] cannot be empty
+66,SEI Institutional Investment Trust - High Yield Bond Fund,SGYAX US equity,Mike Della Vedova
+67,HC Capital Trust - HC The Corporate Opportunities,HCHYX US equity,Ian Justice
+68,HC Capital Trust - HC The Corporate Opportunities,HCHYX US equity,Scott Jacobson
+69,Victory High Yield Fund,GUHYX US equity,Kevin Booth
+70,Victory High Yield Fund,GUHYX US equity,Paul Gillin
+71,Catalyst/SMH High Income Fund,HIIFX US equity,
+72,Ivy ProShares Interest Rate Hedged High Yield Index Fund,IAIRX US equity,
+73,American Century NT High Income Fund,AHGNX US equity,
+74,Ivy PineBridge High Yield Fund,IPNAX US equity,
+75,PIA High Yield MACS Fund,PIAMX US equity,
+76,American Century High Income Fund,AHIAX US equity,
+77,"0    Northeast Investors Trust
+Name: Name_x, dtype: object",NTHEX US equity,Bruce H Monrad
+78,"9    City National Rochdale Fixed Income Opportunit...
+Name: Name_x, dtype: object",RIMOX US equity,Simon Milledge
+79,"14    Calamos High Income Fund
+Name: Name_x, dtype: object",CCHYX US equity,Jeremy Hughes
+80,"19    MFS Global High Yield Fund
+82          MFS High Income Fund
+Name: Name_x, dtype: object",MHOBX US equity,David Cole
+81,"33               Pioneer Global High Yield Fund
+73                      Pioneer High Yield Fund
+148    Nationwide Amundi Global High Yield Fund
+Name: Name_x, dtype: object",PGHYX US equity,Andrew D Feltus
+82,"35    AB High Income Fund Inc
+Name: Name_x, dtype: object",AGDAX US equity,"Douglas J Peebles ""Doug"""
+83,"40    Aberdeen Global High Income Fund
+Name: Name_x, dtype: object",BJBHX US equity,George Westervelt
+84,"48    Eaton Vance Income Fund of Boston
+Name: Name_x, dtype: object",EVIBX US equity,Steve Concannon
+85,"49             Eaton Vance Income Fund of Boston
+50    Eaton Vance High Income Opportunities Fund
+Name: Name_x, dtype: object",EVIBX US equity,Jeffrey D Mueller
+86,"55    JPMorgan High Yield Fund
+Name: Name_x, dtype: object",OHYFX US equity,Jeff Lovell
+87,"59    Morgan Stanley Pathway Funds - High Yield Fund
+Name: Name_x, dtype: object",THYUX US equity,Richard A Hocker
+88,"63    Morgan Stanley Pathway Funds - High Yield Fund
+Name: Name_x, dtype: object",THYUX US equity,David Jackson
+89,"67    American Century High-Yield Fund
+Name: Name_x, dtype: object",AHYVX US equity,David Macewen
+90,"68    American Century High-Yield Fund
+Name: Name_x, dtype: object",AHYVX US equity,Kevin Akioka
+91,"77    Goldman Sachs High Yield Fund
+Name: Name_x, dtype: object",GSHAX US equity,Rachel C Golder
+92,"79    Transamerica High Yield Bond
+Name: Name_x, dtype: object",IHIYX US equity,Ben Miller
+93,"95    Fidelity Global High Income Fund
+Name: Name_x, dtype: object",FGHNX US equity,John H Carlson
+94,"101    Northern High Yield Fixed Income Fund
+Name: Name_x, dtype: object",NHFIX US equity,Eric Williams
+95,"119    Principal Funds Income High Yield Fund
+Name: Name_x, dtype: object",PHYTX US equity,Darrin E Smith
+96,"120    Morgan Stanley Institutional Fund Trust - High...
+Name: Name_x, dtype: object",MSYIX US equity,Jack Cimarosa
+97,"134    Hartford High Yield Fund/The
+Name: Name_x, dtype: object",HAHAX US equity,David Marshak
+98,"145    Western Asset Global High Yield Bond Fund
+Name: Name_x, dtype: object",SAHYX US equity,Christopher F Kilpatrick
+99,"155    PIA High Yield Fund
+Name: Name_x, dtype: object",PHYSX US equity,Lloyd McAdams
+100,"157    Angel Oak High Yield Opportunities Fund
+Name: Name_x, dtype: object",ANHAX US equity,Matt Kennedy
+101,"166    SEI Institutional Managed Trust - High Yield B...
+Name: Name_x, dtype: object",SHYAX US equity,Adam H Brown
+102,"168    Hartford Strategic Income Fund
+Name: Name_x, dtype: object",HSNAX US equity,Michael Schafer
+103,"178    American High-Income Trust
+Name: Name_x, dtype: object",AHITX US equity,Tara Torrens
+104,"187    PACE High Yield Investments
+Name: Name_x, dtype: object",PHDYX US equity,Fred Lee
+105,"193    Manning & Napier High Yield Bond Series
+Name: Name_x, dtype: object",MNHYX US equity,Marc Bushallow
+106,"194    Manning & Napier High Yield Bond Series
+Name: Name_x, dtype: object",MNHYX US equity,Keith Harwood
+107,"201    PGIM High Yield Fund
+Name: Name_x, dtype: object",PBHAX US equity,Robert Spano
+108,"202    PGIM High Yield Fund
+Name: Name_x, dtype: object",PBHAX US equity,Brian Clapp
+109,"212    SEI Institutional Investment Trust - High Yiel...
+Name: Name_x, dtype: object",SGYAX US equity,Todd Boehly
+110,Access Flex High Yield Fund,FYAIX US equity,Jeff Ploshnick
+111,City National Rochdale Fixed Income Opportunities Fund,RIMOX US equity,Garrett R D'Alessandro
+112,City National Rochdale Fixed Income Opportunities Fund,RIMOX US equity,Stefan Paul Pinter
+113,City National Rochdale Fixed Income Opportunities Fund,RIMOX US equity,Maxim Matveev
+114,City National Rochdale Fixed Income Opportunities Fund,RIMOX US equity,Theodore Stohner
+115,City National Rochdale Fixed Income Opportunities Fund,RIMOX US equity,Bruce D Simon
+116,City National Rochdale Fixed Income Opportunities Fund,RIMOX US equity,Graham Rainbow
+117,Calamos High Income Fund,CCHYX US equity,
+118,Touchstone High Yield Fund,THYCX US equity,Brendan M White
+119,Dunham High Yield Bond Fund,DCHYX US equity,
+120,Delaware Fund For Income Fund,FIFIX US equity,Craig C Dembek
+121,AllianzGI High Yield Bond Fund,AYBVX US equity,
+122,Thrivent High Yield Fund,LBHYX US equity,
+123,HSBC Strategic Income Fund,HBIAX US equity,Jerry Samet
+124,Invesco High Yield Bond Factor Fund,OGYAX US equity,
+125,Fidelity Focused High Income Fund,FHIFX US equity,Matthew J Conti
+126,DDJ Capital Opportunistic High Yield Fund,DDJCX US equity,"Benjamin J Santonelli ""Ben"""
+127,HSBC High Yield Bond Fund,HBYAX US equity,Mary Gottshall Bowers
+128,Voya High Yield Bond Fund,IHYAX US equity,
+129,Transamerica High Yield Bond,IHIYX US equity,
+130,MFS High Income Fund,MHITX US equity,Bill Adams
+131,MFS High Income Fund,MHITX US equity,
+132,Janus Henderson High-Yield Fund,JHYAX US equity,
+133,Timothy Plan High Yield Bond Fund,TPHAX US equity,
+134,Barings US High Yield Fund,BXHAX US equity,
+135,Fidelity Global High Income Fund,FGHNX US equity,
+136,Loomis Sayles Institutional High Income Fund,LSHIX US equity,
+137,Segall Bryant & Hamill Quality High Yield Fund,WTLTX US equity,
+138,Delaware High-Yield Opportunities Fund,DHOAX US equity,
+139,USAA High Income Fund,USHYX US equity,John Charles Spear
+140,USAA High Income Fund,USHYX US equity,Kurt Daum
+141,USAA High Income Fund,USHYX US equity,Neal Graves
+142,USAA High Income Fund,USHYX US equity,James Jackson
+143,Guggenheim High Yield Fund,SHYIX US equity,
+144,Principal Funds Income High Yield Fund,PHYTX US equity,Mark P Denkinger
+145,Payden High Income Fund,PYHRX US equity,Jordan Lopez
+146,Federated Hermes Opportunistic High Yield Bond Fund,FHYTX US equity,
+147,Nationwide Amundi Global High Yield Fund,NWXIX US equity,
+148,Ivy High Income Fund,WHIAX US equity,
+149,Angel Oak High Yield Opportunities Fund,ANHAX US equity,Berkin Kologlu
+150,SEI Institutional Managed Trust - High Yield Bond Fund,SHYAX US equity,Donald Ellis Morgan III
+151,John Hancock Funds II - U.S. High Yield Bond Fund,JIHLX US equity,
+152,Integrity High Income Fund,IHFAX US equity,
+153,Pacific Funds High Income,PLHIX US equity,Brian Robertson
+154,Nuveen Credit Income Fund,FJSIX US equity,
+155,Western Asset High Yield Fund,WAHYX US equity,
+156,SEI Institutional Investment Trust - High Yield Bond Fund,SGYAX US equity,Kevin P Loome
+157,HC Capital Trust - HC The Corporate Opportunities,HCHYX US equity,Anup Agarwal
+158,HC Capital Trust - HC The Corporate Opportunities,HCHYX US equity,Harris A Trifon
+159,HC Capital Trust - HC The Corporate Opportunities,HCHYX US equity,John Dire
+160,HC Capital Trust - HC The Corporate Opportunities,HCHYX US equity,Michael Sugrue
+161,HC Capital Trust - HC The Corporate Opportunities,HCHYX US equity,James Millward
+162,HC Capital Trust - HC The Corporate Opportunities,HCHYX US equity,"Thomas B Lee ""Tom"""
+163,Loomis Sayles High Income Opportunities Fund,LSIOX US equity,"Daniel J Fuss ""Dan"""
+164,Catalyst/SMH High Income Fund,HIIFX US equity,
+165,Ivy ProShares Interest Rate Hedged High Yield Index Fund,IAIRX US equity,
+166,American Century NT High Income Fund,AHGNX US equity,
+167,Ivy PineBridge High Yield Fund,IPNAX US equity,
+168,PIA High Yield MACS Fund,PIAMX US equity,
+169,American Century High Income Fund,AHIAX US equity,
+170,"56     HSBC Strategic Income Fund
+116     HSBC High Yield Bond Fund
+Name: Name_x, dtype: object",HBIAX US equity,Ricky Liu
+171,"61    AB High Income Fund Inc
+Name: Name_x, dtype: object",AGDAX US equity,Paul J Denoon
+172,"82    Wells Fargo High Yield Bond Fund
+Name: Name_x, dtype: object",EKHAX US equity,Robert Junkin
+173,"88    JPMorgan High Yield Fund
+Name: Name_x, dtype: object",OHYFX US equity,Bill Morgan
+174,"112    BNY Mellon High Yield Fund
+Name: Name_x, dtype: object",DPLTX US equity,Kevin L Cronk
+175,"121    Voya High Yield Bond Fund
+Name: Name_x, dtype: object",IHYAX US equity,Matt Toms
+176,"133    Stone Harbor High Yield Bond Fund
+Name: Name_x, dtype: object",SHHYX US equity,Marianne Rossi
+177,"135    Stone Harbor High Yield Bond Fund
+Name: Name_x, dtype: object",SHHYX US equity,"Daniel Berkery ""Dan"""
+178,"150    First Eagle Funds - First Eagle High Income Fund
+Name: Name_x, dtype: object",FEHAX US equity,Edward Meigs
+179,"157    Fidelity Global High Income Fund
+Name: Name_x, dtype: object",FGHNX US equity,Lisa J Roche
+180,"159    Fidelity Global High Income Fund
+Name: Name_x, dtype: object",FGHNX US equity,James Durance
+181,"167    Neuberger Berman High Income Bond Fund
+Name: Name_x, dtype: object",NHINX US equity,Joseph W Lind
+182,"202    BrandywineGLOBAL - Global High Yield Fund
+Name: Name_x, dtype: object",LMZIX US equity,"Gerhardt P Herbert ""Gary"""
+183,"221    Federated Hermes High Income B
+Name: Name_x, dtype: object",FHIIX US equity,Steven Wagner
+184,"227    Hartford High Yield Fund/The
+Name: Name_x, dtype: object",HAHAX US equity,Chris Jones
+185,"254    PIA High Yield Fund
+Name: Name_x, dtype: object",PHYSX US equity,Evangelos Karagiannis
+186,"306    PACE High Yield Investments
+Name: Name_x, dtype: object",PHDYX US equity,Steven Rosenthal
+187,"315    Fidelity Series High Income Fund
+Name: Name_x, dtype: object",FSHNX US equity,Fred Hoff
+188,"319    PGIM High Yield Fund
+Name: Name_x, dtype: object",PBHAX US equity,Robert Cignarella
+189,"323    PGIM High Yield Fund
+Name: Name_x, dtype: object",PBHAX US equity,Daniel Thorogood
+190,"334    SEI Institutional Investment Trust - High Yiel...
+Name: Name_x, dtype: object",SGYAX US equity,Patrick Mitchell
+191,"352    HC Capital Trust - HC The Corporate Opportunities
+Name: Name_x, dtype: object",HCHYX US equity,Michael Edmonds
+192,"353    HC Capital Trust - HC The Corporate Opportunities
+Name: Name_x, dtype: object",HCHYX US equity,Clint Talmo
+193,"355    HC Capital Trust - HC The Corporate Opportunities
+Name: Name_x, dtype: object",HCHYX US equity,Jason Nelson
+194,"369    Franklin High Income Fund/United States
+Name: Name_x, dtype: object",FHAIX US equity,James McGiveran
+195,"370    Franklin High Income Fund/United States
+Name: Name_x, dtype: object",FHAIX US equity,Bryant Dieffenbacher
+196,"386    Muzinich US High Yield Corporate Bond Fund
+Name: Name_x, dtype: object",MZHSX US equity,Kevin Ziets
+197,"387    Muzinich US High Yield Corporate Bond Fund
+Name: Name_x, dtype: object",MZHSX US equity,Bryan Petermann
+198,"388    Diamond Hill High Yield Fund
+Name: Name_x, dtype: object",DHHAX US equity,"William P Zox ""Bill"""
+199,"389    Diamond Hill High Yield Fund
+Name: Name_x, dtype: object",DHHAX US equity,Suken Patel
+200,"390    Diamond Hill High Yield Fund
+Name: Name_x, dtype: object",DHHAX US equity,John McClain
+201,"392    Direxion Monthly High Yield Bull 1.2X Fund
+Name: Name_x, dtype: object",DXHYX US equity,Tony Ng
